@@ -1,4 +1,11 @@
 # Lab 5: Web UI Automation (Selenium)
+Group members:
+Elisa Filza Mizwan binti Lius 22002775 
+Nurfarhana Najihah binti Mohd Fadli 22003122 
+Muhammad Ammar Aqim bin Mohd Alwi 22003435 
+Ikmal Hakim bin Mohd Fahmi 22005529 
+Shervona Faith Julian  22006681 
+Nureen Nellysha binti Norazizi 22006973 
 
 **Duration:** 2 hours  **Work mode:** groups
 
