@@ -1,11 +1,17 @@
 # Lab 5: Web UI Automation (Selenium)
-Group members:
-Elisa Filza Mizwan binti Lius 22002775 
-Nurfarhana Najihah binti Mohd Fadli 22003122 
-Muhammad Ammar Aqim bin Mohd Alwi 22003435 
-Ikmal Hakim bin Mohd Fahmi 22005529 
-Shervona Faith Julian  22006681 
-Nureen Nellysha binti Norazizi 22006973 
+## Group Members
+
+**Course:** Software Testing and Quality Assurance (STQA)  
+**Lab:** Lab 5 – Web UI Automation (Selenium)
+
+| No. | Name | Student ID |
+|---|---|---|
+| 1 | Elisa Filza Mizwan binti Lius  | 22002775 |
+| 2 | Nurfarhana Najihah binti Mohd Fadli | 22003122 |
+| 3 | Muhammad Ammar Aqim bin Mohd Alwi  | 22003435 |
+| 4 | Ikmal Hakim bin Mohd Fahmi  | 22005529 |
+| 5 | Shervona Faith Julian   | 22006681 |
+| 6 | Nureen Nellysha binti Norazizi  | 22006973 |
 
 **Duration:** 2 hours  **Work mode:** groups
 
